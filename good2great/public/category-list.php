@@ -70,7 +70,7 @@
       <div class="container">
         <div class="col-lg-8">
           <div class="post-previews">
-          <h3><a href="content.html">Looking Ahead: Three Years of Start Bootstrap!</a></h3>
+          <h3><a href="content?id=<?php echo ?>">Looking Ahead: Three Years of Start Bootstrap!</a></h3>
           <div class="author text-muted">by David Miller</div>
           <div class="category text-muted"><i class="icon-tag"></i> News</div>
           <div class="date text-muted"><i class="icon-clock"></i> Aug 10, 2016</div>
